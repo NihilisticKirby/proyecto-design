@@ -1,0 +1,135 @@
+.wrap{
+	padding: 0px 40px;
+}
+.wrap-more{
+	padding: 0px 50px;
+}
+
+/* Navigation*/
+
+.top-bar{
+	background-color: #272A3C ;
+}
+.logo{
+	display: inline-block;
+	color: white;
+}
+#this{
+	float: left;
+	width: 60px;
+	height: 60px;
+}
+.top-bar ul {
+	background: #272A3C;
+}
+ .menu > li > a {
+ 	padding:25px 20px;
+ }
+#test{
+	padding: 10px;
+} 
+.top-bar{
+	padding: 0px 0px;
+}
+
+/* Welcome*/
+
+.welcome{
+	background-color:#272A3C; 
+	padding: 40px 40px;
+}
+
+.top-section{
+	padding: 60px 60px;
+	background-image: url(http://chainimage.com/images/fondos-de-pantalla-plan-de-alta-tecnolog%C3%ADa-electr%C3%B3nica-neon-un-2.jpg);
+	background-size: cover;
+}
+h1{
+	color: white;
+}
+
+#paragraph{
+	color: white;
+}
+
+
+/* Questions*/
+hr.style18 { 
+  height: 30px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 1px 0 0 0; 
+  border-radius: 20px; 
+} 
+hr.style18:before { 
+  display: block; 
+  content: ""; 
+  height: 30px; 
+  margin-top: -31px; 
+  border-style: solid; 
+  border-color: #8c8b8b; 
+  border-width: 0 0 1px 0; 
+  border-radius: 20px; 
+}
+
+.space{
+	padding: 50px;
+	text-align: center;
+}
+h4{
+
+	text-align: center;
+}
+hr.style-eight {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+}
+hr.style-eight:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25em;
+    background: white;
+} 
+
+/* Bottom*/
+footer{
+	height: : 300px;
+	background-color: #272A3C;
+}
+footer h4{
+	color: white;
+}
+.spacing{
+	padding: 20px;
+}
+footer a{
+	display: block;
+}
+
+/* Gallery*/
+/*.orbit{
+	background-color: #272A3C
+}
+*/
+.circle {
+  width: 300px;
+  height: 250px;
+  border-radius: 50%;
+  font-size: 15px;
+  color: white;
+  line-height: 300px;
+  text-align: center;
+  background: #272A3C;
+}
+.circle-space{
+	padding: 5px 40px;
+}
+.circle-space-title{
+	padding-top: 10px;
+}
